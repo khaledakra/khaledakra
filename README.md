@@ -1,4 +1,4 @@
-![42](https://github.com/user-attachments/assets/600dce98-c9b6-4579-95d9-a80fd7d2d1f0)\
+![42](https://github.com/user-attachments/assets/600dce98-c9b6-4579-95d9-a80fd7d2d1f0)
 # Hi there ! 👋
 👨‍💼 Khaled Akra\
 Born in 2005 | Passionate Software Engineering Student at 42 Beirut
